@@ -34,7 +34,7 @@ class _MyButtonWidgetState extends State<MyButtonWidget> {
           margin: const EdgeInsets.all(5),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(100),
-            color: isColored ? Colors.blue : Colors.grey,
+            color: isColored ? Colors.yellow : Colors.brown,
           ),
           child: Center(
             child: Text(
